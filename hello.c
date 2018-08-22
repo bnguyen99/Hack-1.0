@@ -7,6 +7,7 @@ Date: 8/22/18
 int main(void){
 
   printf("Brian Nguyen!/n");
+  printf("Computer Science/n");
 
   return 0;
 
