@@ -1,14 +1,10 @@
-/*
-Name: Brian Nguyen
-Date: 8/22/18
-*/
 #include <stdio.h>
+#include <stdlib.h>
 
-int main(void){
+int main(int argc, char** argv){
 
-  printf("Brian Nguyen!/n");
-  printf("Computer Science/n");
+printf("Hello World\n");
+printf("Brian Nguyen, Computer Science!\n");
 
-  return 0;
-
+return 0;
 }
